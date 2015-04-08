@@ -3,7 +3,7 @@ package devops.junit;
 import junit.framework.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import Devops.src.main.java.devops.test;
+import main.java.devops.test;
  
 public class TestBankAccount {
 
